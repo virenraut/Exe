@@ -153,7 +153,7 @@ Executive-Summary-Dashboard/
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/viren-raut)
 - 📧 Email: virenraut887@gmail.com
-- 🌐 Portfolio: [(https://virenrautportfolio.lovable.app/)]
+- 🌐 Portfolio: https://virenrautportfolio.lovable.app/
 
 ---
 
