@@ -152,7 +152,7 @@ Executive-Summary-Dashboard/
 *Data Analyst | AI & Machine Learning Graduate*
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/viren-raut)
-- 📧 Email: [virenraut887@gmail.com]
+- 📧 Email: virenraut887@gmail.com
 - 🌐 Portfolio: [(https://virenrautportfolio.lovable.app/)]
 
 ---
